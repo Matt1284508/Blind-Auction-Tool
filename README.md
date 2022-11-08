@@ -1,6 +1,6 @@
 ###################################################
 
-100 DAYS OF CODE | Day 8 - Blind Auction Tool
+100 DAYS OF CODE | Day 7 - Blind Auction Tool
 
 ###################################################
 
